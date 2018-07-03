@@ -1,0 +1,13 @@
+Date: 10 May 2018
+Hal-hal yang harus ditambahkan:
+1. Pada class OrganizeItemsPanel:
+    - JTable harus dapat menampilkan list barang saat construct new OrganizeItemsPanel();.
+    - jTextFieldSearch harus dapat menemukan barang sesuai yang di input(kalo bisa pada saat ngetik.
+      JTable nya seleksi sendiri).
+    - di combo box options, pilihan add, add new item, dan delete bisa memroses barang sesuai dengan tujuannya.
+    
+Date: 11 May 2018
+1. Panel transaksi sudah dibuat, tinggal mengimplementasikan data pada table dan memrosesnya
+2. Buat biar bisa search item
+3. Buat biar bisa sort item
+4. dll.
